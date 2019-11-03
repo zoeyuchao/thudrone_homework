@@ -1,6 +1,6 @@
-# THU_Drone课程作业
+# THUDrone_Homework
 
-这是无人机课程的部分试题和答案。
+这是清华大学智能无人机课程的作业和答案。
 
 - chap1是点云发布
 - chap2是二维码识别（有c++和python2个版本）
